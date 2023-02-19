@@ -1,0 +1,4 @@
+[submodule "Integrated-Path/bi_website_cash_on_delivery"]
+	path = Integrated-Path/bi_website_cash_on_delivery
+	url = git@github.com:Integrated-Path/bi_website_cash_on_delivery.git
+	branch = master
