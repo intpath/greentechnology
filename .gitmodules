@@ -2,3 +2,8 @@
 	path = Integrated-Path/bi_website_cash_on_delivery
 	url = git@github.com:Integrated-Path/bi_website_cash_on_delivery.git
 	branch = master
+
+[submodule "Integrated-Path/green_tech_custom"]
+	path = Integrated-Path/green_tech_custom
+	url = git@github.com:Integrated-Path/green_tech_custom.git
+	branch = master
