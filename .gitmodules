@@ -12,3 +12,8 @@
 	path = Integrated-Path/deltatech_watermark
 	url = git@github.com:Integrated-Path/deltatech_watermark.git
 	branch = master
+
+[submodule "Integrated-Path/deltatech_watermark_report"]
+	path = Integrated-Path/deltatech_watermark_report
+	url = git@github.com:Integrated-Path/deltatech_watermark_report.git
+	branch = master
