@@ -7,3 +7,8 @@
 	path = Integrated-Path/green_tech_custom
 	url = git@github.com:Integrated-Path/green_tech_custom.git
 	branch = master
+
+[submodule "Integrated-Path/deltatech_watermark"]
+	path = Integrated-Path/deltatech_watermark
+	url = git@github.com:Integrated-Path/deltatech_watermark.git
+	branch = master
