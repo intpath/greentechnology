@@ -17,3 +17,8 @@
 	path = Integrated-Path/deltatech_watermark_report
 	url = git@github.com:Integrated-Path/deltatech_watermark_report.git
 	branch = master
+
+[submodule "Integrated-Path/garazd_product_label"]
+	path = Integrated-Path/garazd_product_label
+	url = git@github.com:Integrated-Path/garazd_product_label.git
+	branch = master
