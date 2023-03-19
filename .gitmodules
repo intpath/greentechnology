@@ -22,3 +22,8 @@
 	path = Integrated-Path/garazd_product_label
 	url = git@github.com:Integrated-Path/garazd_product_label.git
 	branch = master
+
+[submodule "Integrated-Path/prt_report_attachment_preview"]
+	path = Integrated-Path/prt_report_attachment_preview
+	url = git@github.com:Integrated-Path/prt_report_attachment_preview.git
+	branch = master
