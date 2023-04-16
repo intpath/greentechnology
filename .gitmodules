@@ -27,3 +27,8 @@
 	path = Integrated-Path/prt_report_attachment_preview
 	url = git@github.com:Integrated-Path/prt_report_attachment_preview.git
 	branch = master
+
+[submodule "Integrated-Path/different_currency_invoice"]
+	path = Integrated-Path/different_currency_invoice
+	url = git@github.com:Integrated-Path/different_currency_invoice.git
+	branch = intpath
