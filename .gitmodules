@@ -32,3 +32,8 @@
 	path = Integrated-Path/different_currency_invoice
 	url = git@github.com:Integrated-Path/different_currency_invoice.git
 	branch = intpath
+
+[submodule "Integrated-Path/invoice_by_journal_users"]
+	path = Integrated-Path/invoice_by_journal_users
+	url = git@github.com:Integrated-Path/invoice_by_journal_users.git
+	branch = 16
