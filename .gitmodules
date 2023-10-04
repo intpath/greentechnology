@@ -37,3 +37,8 @@
 	path = Integrated-Path/invoice_by_journal_users
 	url = git@github.com:Integrated-Path/invoice_by_journal_users.git
 	branch = 16
+
+[submodule "Integrated-Path/dev_advance_search_partner"]
+	path = Integrated-Path/dev_advance_search_partner
+	url = git@github.com:Integrated-Path/dev_advance_search_partner.git
+	branch = master
